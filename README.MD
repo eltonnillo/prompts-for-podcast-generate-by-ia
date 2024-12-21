@@ -104,7 +104,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
   >
   >  "Visão de Dados: Inteligência para Segurança nas Transações" – o podcast que te ajuda a tomar decisões mais inteligentes e a garantir a segurança das transações financeiras. Até a próxima!
 
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Editor de audio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
 ## 🛠️ Instruções de execução
