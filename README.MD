@@ -44,6 +44,18 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro e título gerados via GEMINI 2.0
+
+  >> Prompt para o roteiro: Olá, imagine que você é um produtor de podcasts e está com a tarefa de criar um novo podcast.
+     O programa será direcionado a um público formado por empregados de um banco, terá um clima objetivo e profissional, mas ao mesmo tempo descontraído e que procura sempre motivar os ouvintes a conhecer coisas novas.
+     O podcast tem como objetivo fornecer conhecimentos básicos de tomada de decisões negociais orientada a dados, no âmbito da segurança de transações financeiras.
+     Crie um roteiro para o primeiro episódio deste podcast.
+
+  >> Prompt para ajustes no roteiro: Agora reescreva o roteiro somente com as partes lidas, omitindo os demais elementos. O nome do apresentador é Miguel.
+
+  >> Prompt para a criação do título utilizando o roteiro como contexto: Crie 4 opções de título para o podcast. Foque nos temas de decisão com dados, inteligência e segurança.
+
+  >> Prompt para reescrever o roteiro com o título escolhido: Agora reescreva o roteiro do podcast com o título "Visão de Dados: Inteligência para Segurança nas Transações".
+
 - Audio gerado pela elevenLabs
 - Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
