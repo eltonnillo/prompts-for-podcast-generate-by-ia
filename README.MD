@@ -60,8 +60,14 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
    > O roteiro gerado no GEMINI 2.0 foi copiado no elevenlabs para a criação da voz. Depois de alguns momentos procurando, encontrei uma voz que lembrava um sotaque nordestino.
 
-- Copilot Para gerar capas
+- GEMINI 2.0 Para gerar capa
+
+   > Prompt para a capa: Crie uma imagem de capa para o podcast com as seguintes informações: Título: Visão de Dados: Inteligência para Segurança nas Transações Justificativa: Sugere uma perspectiva abrangente e estratégica proporcionada pela análise de dados, com o objetivo final de garantir a segurança das 
+     transações. Foco em inteligência e segurança. Traços simples. Objetividade. Utilize os elementos da mão representando a segurança e tecnologia como ferramenta para transações financeiras.
+
 - Capcut para tratar aúdio e adicionar sons de fundo
+
+   > O áudio gerado no elevenlabs foi importado no Capcut e incorporado a uma trilha de fundo.
 
 ## 📚 Materiais
 
@@ -94,7 +100,6 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
   >
   >  "Visão de Dados: Inteligência para Segurança nas Transações" – o podcast que te ajuda a tomar decisões mais inteligentes e a garantir a segurança das transações financeiras. Até a próxima!
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
@@ -102,9 +107,9 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro e título no `GEMINI`
-- 🤖 2. Use os prompts de roteiro gerados pelo GEMINI no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `copilot`
+- 🤖 1. Use os prompts de roteiro e título no `GEMINI 2.0`
+- 🤖 2. Use os prompts de roteiro gerados pelo GEMINI 2.0 no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `GEMINI 2.0`
 
 ## 👨‍💻 Expert
 
