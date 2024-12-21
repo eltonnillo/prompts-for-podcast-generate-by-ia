@@ -144,4 +144,4 @@ Pode ser necessário ajustar o prompt de acordo com a resposta recebida.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Elton Nillo](https://github.com/eltonnillo)
