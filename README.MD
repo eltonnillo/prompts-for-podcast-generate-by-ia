@@ -57,6 +57,9 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
   >> Prompt para reescrever o roteiro com o título escolhido: Agora reescreva o roteiro do podcast com o título "Visão de Dados: Inteligência para Segurança nas Transações".
 
 - Audio gerado pela elevenLabs
+
+  >> O roteiro gerado no GEMINI 2.0 foi copiado no elevenlabs para a criação da voz. Depois de alguns momentos procurando, encontrei uma voz que lembrava um sotaque nordestino.
+
 - Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
