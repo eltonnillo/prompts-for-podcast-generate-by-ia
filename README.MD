@@ -33,6 +33,10 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais completos e contextualizados.
 
+## 💻 Arquivo MP3 com a versão final do Podcast
+
+- [Download](https://github.com/eltonnillo/prompts-for-podcast-generate-by-ia/raw/refs/heads/main/assets/Podcast.MP3) 
+
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
