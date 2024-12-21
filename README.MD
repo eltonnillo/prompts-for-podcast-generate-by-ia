@@ -31,9 +31,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante para entrega do Desafio CRIANDO UM PODCAST COM IA GENERATIVA, que faz parte do Bootcamp CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais completos e contextualizados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
